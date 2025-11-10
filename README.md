@@ -16,6 +16,16 @@ This repository contains foundational **Image Processing** projects implemented 
 - Uses both **Global Histogram Equalization** and **CLAHE** (Contrast Limited Adaptive Histogram Equalization).
 - Works on color images using YCrCb color space transformations.
 
+### 3️⃣ Image Sharpening and Edge Enhancement 
+Performs image sharpening and edge enhancement using OpenCV.
+Outputs:
+- `sharpened.png`
+- `edge_enhanced.png`
+Features:
+- Sharpening with convolution kernel
+- Edge detection with Laplacian filter
+- Side-by-side visualization of results
+
 ---
 
 ## ⚙️ Requirements
